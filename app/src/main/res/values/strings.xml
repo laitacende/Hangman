@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="a">A</string>
+    <string name="a2">Ą</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="c2">Ć</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="e2">Ę</string>
+    <string name="f">F</string>
+    <string name="g">G</string>
+    <string name="h">H</string>
+    <string name="i">I</string>
+    <string name="j">J</string>
+    <string name="k">K</string>
+    <string name="l">L</string>
+    <string name="l2">Ł</string>
+    <string name="m">M</string>
+    <string name="n">N</string>
+    <string name="n2">Ń</string>
+    <string name="o">O</string>
+    <string name="o2">Ó</string>
+    <string name="p">P</string>
+    <string name="r">R</string>
+    <string name="s">S</string>
+    <string name="s2">Ś</string>
+    <string name="t">T</string>
+    <string name="u">U</string>
+    <string name="w">W</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="z2">Ź</string>
+    <string name="z3">Ż</string>
+
+    <string-array name="words">
+        <item>komputer</item>
+        <item>zgadywanka</item>
+        <item>słowo</item>
+        <item>imperializm</item>
+        <item>królowa</item>
+        <item>bursztyn</item>
+        <item>wiklinowy</item>
+        <item>ciekawość</item>
+        <item>olbrzym</item>
+        <item>orędownictwo</item>
+        <item>godność</item>
+        <item>wykwintny</item>
+        <item>rycerz</item>
+        <item>wypadek</item>
+        <item>obosieczny</item>
+        <item>przysługa</item>
+        <item>gospodarstwo</item>
+        <item>wzruszenie</item>
+        <item>myśliwskie</item>
+        <item>sposobność</item>
+        <item>wyzdrowienie</item>
+        <item>rozmowa</item>
+        <item>zapomnienie</item>
+        <item>bałamucić</item>
+        <item>kosztowny</item>
+        <item>przytomny</item>
+        <item>dziedziniec</item>
+        <item>oszustwo</item>
+        <item>przysięga</item>
+        <item>łańcuch</item>
+        <item>niewiadoma</item>
+        <item>gościniec</item>
+        <item>sprawiedliwość</item>
+        <item>uśpiony</item>
+        <item>rozmyślania</item>
+        <item>szczebiotanie</item>
+        <item>przytakiwać</item>
+        <item>hartowane</item>
+        <item>niebezpieczeństwo</item>
+        <item>rozpaczliwy</item>
+        <item>przezwyciężyć</item>
+        <item>mniemanie</item>
+        <item>sprowadzić</item>
+    </string-array>
+</resources>
